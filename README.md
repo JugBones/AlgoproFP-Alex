@@ -16,6 +16,6 @@ src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
 src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png"
 
 
-</details>
+
 
 [drive] : https://drive.google.com/file/d/1JKh-okO1yLQ2onTFfvUdRb3T37Qv0uUx/view?usp=sharing
