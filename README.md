@@ -1,4 +1,4 @@
-### Hi there, I'm Alex - aka [JugBones]
+### Hi there, I'm Alex - aka [JugBones][website]
 [![Website](https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.png)](https://github.com/JugBones)
 
 ## You can check my description FP files here!
@@ -15,6 +15,6 @@
 src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png" />]
 
 
-
+[website]: https://github.com/JugBones
 
 
