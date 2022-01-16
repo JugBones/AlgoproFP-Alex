@@ -14,7 +14,8 @@
 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Spyder" width="26px"
 src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png" />
-
+<img align="left" alt="Python" width="26px"
+src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
 
 [website]: https://github.com/JugBones
 
